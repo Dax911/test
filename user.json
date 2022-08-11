@@ -1,0 +1,27 @@
+{
+  "user_id": 2,
+  "username": "Lewis",
+  "profile_picture": "https://avatars.githubusercontent.com/u/1657236?v=4",
+  "state": 0,
+  "stage_id": 60,
+  "colors": ["linear-gradient(180deg, #fb923c 0.00%, #fb923c 100.00%)"],
+  "badges": [1],
+  "friend_list": [],
+  "inventory": {
+    "items": [{ "id": 0, "stack": 0 }],
+    "campaigns": [1],
+    "energy": 0,
+    "mp": 0
+  },
+  "badge_objects": [
+    {
+      "role_id": 1,
+      "display": "User",
+      "color": "#a8a8a8",
+      "level": 1,
+      "icon_url": "https://imagebucketmoonbounce.s3.amazonaws.com/user-286.png"
+    }
+  ],
+  "sprite_sheet_id": 2,
+  "auth_id": "github|1657236"
+}
